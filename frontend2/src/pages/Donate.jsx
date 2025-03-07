@@ -12,7 +12,7 @@ const Donate = () => {
     e.preventDefault()
     const handler = new PaystackPop()
     handler.newTransaction({
-      key: 'pk_test_63e8e9385ffd0f7780ffbf4dd169962d112f2dd9',
+      key: 'pk_live_00ef1cbb0be1ce915a23988ba55bc1cd1d0694fc',
       amount: amount * 100,
       email: email,
       phone: phoneNumber,
