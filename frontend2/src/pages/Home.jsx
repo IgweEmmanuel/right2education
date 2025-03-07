@@ -6,6 +6,7 @@ import Image4 from '../assets/partner2.png'
 import Image5 from '../assets/emmanuel.jpeg'
 import Image6 from '../assets/boniface.jpeg'
 import Image7 from '../assets/person4.jpeg'
+import Image8 from '../assets/person2.png'
 import Video from '../assets/pupils.mp4'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
@@ -192,7 +193,7 @@ const HomePage = () => {
     {
       name: 'Grace Ede',
       role: 'Parent',
-      image: '',
+      image: Image8,
       quote:
         'Thank you Right2Education Children Support Foundation for removing shame on my face by enrolling my children in School. God bless the founder and the entire NGO.',
     },

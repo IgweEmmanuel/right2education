@@ -89,11 +89,11 @@ const AboutPage = () => {
               <img
                 src={Image5}
                 alt="Mission"
-                className="rounded-lg shadow-lg"
+                className="rounded-lg shadow-lg sm:w-98 mx-auto"
               />
             </div>
             <div>
-              <p className="text-lg text-gray-700 mb-6">
+              <p className="text-lg text-gray-700 mb-6 text-center md:text-left">
                 Mission: To provide access to quality education for every
                 out-of-school child, regardless of their economic or social
                 background, by identifying, enrolling, and supporting them in
